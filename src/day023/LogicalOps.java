@@ -20,7 +20,7 @@ public class LogicalOps {
         System.out.println();
 
         //or operatörünün kullanımı
-        boolean res5=false | false;
+        boolean res5=false | false;//false
         boolean res6=true | false;
         boolean res7=false | true;
         boolean res8=true | true;
